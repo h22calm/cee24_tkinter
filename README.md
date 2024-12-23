@@ -1,5 +1,5 @@
-This is a cute toy project. \n
-if you want to it operate, please run the start.py file. \n
+This is a cute toy project. 
+\nif you want to it operate, please run the start.py file. \n
 There are some parts that I failed to make properly. Please help me! \n
 
 I made it by using These OOS \n
